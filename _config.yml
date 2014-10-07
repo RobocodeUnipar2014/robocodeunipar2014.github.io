@@ -1,11 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: "Robocode Unipar 2014"
+email: "robocodeunipar@gmail.com"
+description: "Site da competição de Robocode na Unipar Campus Francisco Beltrão."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://robocodeunipar2014.github.io"
+twitter_username: robocodeunipar
+github_username:  robocodeunipar2014
 
 # Build settings
 markdown: kramdown
