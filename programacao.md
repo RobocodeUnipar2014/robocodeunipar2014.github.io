@@ -26,7 +26,7 @@ permalink: /programacao/
 
 ### Sexta-feira (24/10)
 
-* 19:15/21:00 - Debate com empresários de Francisco Beltrão e região. Como começar sua empresa.
-* 21:00/22:50 - Espaço aberto para troca de idéias entre empresários e alunos.
+* 19:15/21:00 - Palestra sobre o Marco Civil da Internet, com Alexandre Magno Augusto Moreira.
+* 21:00/22:50 - Debate com empresários de Francisco Beltrão e região. Como começar sua empresa.
 
 [zzz]: http://www.zombiezoid.com.br/
